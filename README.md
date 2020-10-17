@@ -18,11 +18,11 @@ Navigate to the local directory where the repo was installed
 
 `cd website`
 
-Install dependencies
+Install Dependencies
 
 `bundle && npm install && bower install`
 
-Starting up
+Starting Up
 
 `gulp`
 
